@@ -1,0 +1,1 @@
+$wnd.org_kie_workbench_drools_KIEDroolsWebapp.runAsyncCallback2("jyf(1,null,{});_.gC=function ac(){return this.cZ};jyf(2604,1,a_u);_.TT=function Sjo(){Rjo()};var iWd=Ehg(LLv,'Container/CallbacksRunnable',2604,UUb);PMu(l5)(2);\n//# sourceURL=org.kie.workbench.drools.KIEDroolsWebapp-2.js\n")
